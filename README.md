@@ -9,7 +9,7 @@ The following are rough guidelines as to what is allowed or disallowed on the In
 
 We encourage members of this community to post jobs that include salary ranges. We understand that it is not always possible, but it helps job seekers by
 
-- Cutting directly to the primary reason we look for new jobs in the first place
+- Cutting directly to [the primary reason](https://www.shrm.org/resourcesandtools/hr-topics/talent-acquisition/pages/salary-most-important-part-job-ad.aspx) we look for new jobs in the first place
 - Saving research time looking at similar compensation packages on Glassdoor or LinkedIn, which may not always be accurate
 - Providing clear insight to fair and equitable pay across your organization
 
